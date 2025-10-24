@@ -1,1 +1,1 @@
-# UNIX COURSE practical foldeer
+# UNIX COURSE practical folder
